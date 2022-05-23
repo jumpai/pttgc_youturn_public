@@ -23,3 +23,7 @@ body {
     padding: 0 8px;
     font-family: Consolas, Courier, monospace;
   }
+
+  img {
+      width: 200px;
+  }
