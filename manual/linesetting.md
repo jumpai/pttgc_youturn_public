@@ -4,4 +4,5 @@
 3) คิวอาร์โค้ด (QR Code)
 4) คิวอาร์โค้ดของฉัน (My QR Code)
 5) คัดลองลิ้ง (Copy Link) ตามรูปด้านล่าง
-![alt text](https://github.com/jumpai/pttgc_youturn_public/blob/main/manual/line.png?raw=true)
+
+![alt text](https://github.com/jumpai/pttgc_youturn_public/blob/main/manual/line.png?raw=true =250x)
