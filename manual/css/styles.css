@@ -13,6 +13,11 @@ body {
   
   h2 {
     border-bottom: solid 1px #aaa;
+    font-size: 3em;
+  }
+
+  h3 {
+    font-size: 2.4em;
   }
   
   code {
