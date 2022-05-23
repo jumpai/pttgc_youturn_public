@@ -12,11 +12,12 @@ body {
   
   h2 {
     border-bottom: solid 1px #aaa;
-    font-size: 3em;
+    font-size: 2.ถem;
   }
 
   h3 {
-    font-size: 2.4em;
+    font-size: 2em;
+    margin: 5px;
   }
   
   code {
@@ -28,5 +29,5 @@ body {
   }
 
   img {
-      width: 300px;
+      width: 350px;
   }
