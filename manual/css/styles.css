@@ -1,6 +1,4 @@
 body {
-    max-width: 450px;
-    margin: 0 auto;
     padding: 25px;
     color: #333333;
     font-family: "Helvetica Neue", Helvetica, "Segoe UI", Arial, freesans, sans-serif;
@@ -14,6 +12,12 @@ body {
   
   h2 {
     border-bottom: solid 1px #aaa;
+    font-size: 2.5em;
+  }
+
+  h3 {
+    font-size: 2em;
+    margin: 5px;
   }
   
   code {
@@ -25,5 +29,5 @@ body {
   }
 
   img {
-      width: 300px;
+      width: 400px;
   }
